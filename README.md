@@ -1,4 +1,4 @@
-# Buddy Assistant
+# HeyHi Buddy Assistant
 A simple Personal Assistant written in Python 3 for Linux (OS module)
 
 _**1) Instructions:**_
