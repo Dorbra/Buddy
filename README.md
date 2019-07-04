@@ -7,7 +7,6 @@ _**1) Instructions:**_
 
 **2) Install all dependencies first:**
 -re (regex expressions)
--gTTS (google Text-To-Speech)
 -speech_recognition (used for Google's API)
 -webbrowser (selenium, for opening/scraping Websites)
 
