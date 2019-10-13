@@ -5,7 +5,7 @@ _**1) Instructions:**_
 * Install dependencies (2)
 * Run: "python HeyHi.py"
 
-**2) Install all dependencies first:**
+**2) Dependencies:**
 -re (regex expressions)
 -speech_recognition (used for Google's API)
 -webbrowser (selenium, for opening/scraping Websites)
